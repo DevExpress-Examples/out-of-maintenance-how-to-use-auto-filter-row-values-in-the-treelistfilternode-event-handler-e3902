@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainForm.cs](./CS/FilterNodeExample/MainForm.cs) (VB: [MainForm.vb](./VB/FilterNodeExample/MainForm.vb))
+* [Program.cs](./CS/FilterNodeExample/Program.cs) (VB: [Program.vb](./VB/FilterNodeExample/Program.vb))
+<!-- default file list end -->
 # How to use Auto Filter Row values in the TreeList.FilterNode event handler
 
 
